@@ -1,1 +1,1 @@
-# httpd
+viで手でhttpdを作る
